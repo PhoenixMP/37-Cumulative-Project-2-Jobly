@@ -47,7 +47,7 @@ if (process.env.NODE_ENV === "test") {
   DB_URI.database = "jobly";
 }
 
-process.env.password = "imKr1ne?"
+
 
 
 
